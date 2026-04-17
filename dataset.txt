@@ -1,0 +1,44 @@
+question: What is KYC?
+answer: KYC (Know Your Customer) is a process banks use to verify the identity of customers.
+
+question: What is a savings account?
+answer: A savings account is a bank account that allows individuals to deposit money and earn interest.
+
+question: What documents are required to open a bank account?
+answer: Typically ID proof (Aadhaar/PAN), address proof, and passport-sized photos.
+
+question: What is a current account?
+answer: A current account is used by businesses for frequent transactions with no interest earnings.
+
+question: What is an ATM?
+answer: ATM (Automated Teller Machine) allows customers to withdraw cash and perform basic transactions.
+
+question: What is a debit card?
+answer: A debit card allows users to spend money directly from their bank account.
+
+question: What is a credit card?
+answer: A credit card allows users to borrow money up to a limit to make purchases.
+
+question: What is interest rate?
+answer: It is the percentage charged or earned on money over time.
+
+question: What is a fixed deposit (FD)?
+answer: An FD is an investment where money is locked for a fixed period at a higher interest rate.
+
+question: What is a loan?
+answer: A loan is borrowed money that must be repaid with interest.
+
+question: What is net banking?
+answer: Net banking allows customers to access banking services online.
+
+question: What is UPI?
+answer: UPI (Unified Payments Interface) enables instant money transfers between bank accounts.
+
+question: What is IFSC code?
+answer: IFSC (Indian Financial System Code) identifies bank branches for electronic transfers.
+
+question: What is a cheque?
+answer: A cheque is a written order directing a bank to pay a specific amount.
+
+question: What is minimum balance?
+answer: It is the least amount required to be maintained in an account to avoid penalties.
