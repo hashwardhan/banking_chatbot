@@ -1,0 +1,19 @@
+query: explain atm in 100 words
+response: "An ATM, or Automated Teller Machine, is a financial machine that enables customers to withdraw cash, check account balances, make transfers between accounts, and perform other basic banking functions. The ATM uses a combination of technology, such as magnetic stripe readers and keypads, and telecommunications networks to connect to a customer's bank account and process transactions. The use of ATMs has revolutionized the way people access their money and perform basic banking functions, making it a convenient and essential tool for managing personal finances."
+
+
+query: UPI
+response: 'UPI (Unified Payments Interface) is a system that allows for instant money transfers between bank accounts.'
+
+
+query: explain llms
+responses: "I'm sorry, the provided context does not contain information about LLMS."
+
+
+query: how to open bank account
+response: 'To open a bank account, you typically need to provide some documents. These documents usually include ID proof (such as Aadhaar or PAN), address proof, and passport-sized photos. Once you have all of the required documents, you can visit your chosen bank and follow their specific account opening process.'
+
+
+query: how to close bank account
+response: 'To close a bank account, you typically need to submit a closing request form in person or by mail to your bank. You may also be required to pay any outstanding fees or penalties before the account can be closed.'
+
